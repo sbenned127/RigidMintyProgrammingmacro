@@ -40,7 +40,7 @@ def checkCave(chosenCave):
     else:
       #It looks like you forgot to complete your print with parenthesis on each side. I put in the paranthesis to complete this print.
         print ('Gobbles you down in one bite!')
-      
+        print("that's crazy")
 
 
 displayIntro()
